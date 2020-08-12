@@ -1,0 +1,10 @@
+Virtualenv
+- deactivate <name> ออกจาก py1
+- workon <name> เข้า py1
+
+cmd
+- ctrl + c ปิดเซิฟ
+- python manage.py runserver รันเซิฟ
+
+code 
+- python manage.py startapp <appname> สร้างแอพใหม่
